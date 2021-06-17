@@ -10,6 +10,7 @@ body {
 
 .step {
   display: flex;
+  flex-wrap: wrap;
 }
 .card {
   border: 5px solid white;
